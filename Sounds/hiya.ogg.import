@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hiya.ogg-e18c13731edd2e2439bae3c0d1b69daa.oggstr"
+
+[deps]
+
+source_file="res://Sounds/hiya.ogg"
+dest_files=[ "res://.import/hiya.ogg-e18c13731edd2e2439bae3c0d1b69daa.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jammed.ogg-c175d342960351a3fa824f356571d8f6.oggstr"
+
+[deps]
+
+source_file="res://Sounds/jammed.ogg"
+dest_files=[ "res://.import/jammed.ogg-c175d342960351a3fa824f356571d8f6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

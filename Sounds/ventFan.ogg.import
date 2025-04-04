@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ventFan.ogg-4c0376c3aa286b537afcf5850729e41f.oggstr"
+
+[deps]
+
+source_file="res://Sounds/ventFan.ogg"
+dest_files=[ "res://.import/ventFan.ogg-4c0376c3aa286b537afcf5850729e41f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BonKill.ogg-3442b2768a165b7875c7c64762b40069.oggstr"
+
+[deps]
+
+source_file="res://Sounds/BonKill.ogg"
+dest_files=[ "res://.import/BonKill.ogg-3442b2768a165b7875c7c64762b40069.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

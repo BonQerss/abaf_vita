@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/miniDoorClose.ogg-89fcfb9d3a19fc5c2beabb2f81d05570.oggstr"
+
+[deps]
+
+source_file="res://Sounds/miniDoorClose.ogg"
+dest_files=[ "res://.import/miniDoorClose.ogg-89fcfb9d3a19fc5c2beabb2f81d05570.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

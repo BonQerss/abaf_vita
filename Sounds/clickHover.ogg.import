@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/clickHover.ogg-d988f11b825ecc0ac93a047589560f79.oggstr"
+
+[deps]
+
+source_file="res://Sounds/clickHover.ogg"
+dest_files=[ "res://.import/clickHover.ogg-d988f11b825ecc0ac93a047589560f79.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

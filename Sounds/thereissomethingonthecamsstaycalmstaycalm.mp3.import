@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/thereissomethingonthecamsstaycalmstaycalm.mp3-8f7bcbddd58c850e4829a47c1a7e90d8.mp3str"
+
+[deps]
+
+source_file="res://Sounds/thereissomethingonthecamsstaycalmstaycalm.mp3"
+dest_files=[ "res://.import/thereissomethingonthecamsstaycalmstaycalm.mp3-8f7bcbddd58c850e4829a47c1a7e90d8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

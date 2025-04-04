@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/lightClick.ogg-8f57eb18078580e3a50baedf9a579c87.oggstr"
+
+[deps]
+
+source_file="res://Sounds/lightClick.ogg"
+dest_files=[ "res://.import/lightClick.ogg-8f57eb18078580e3a50baedf9a579c87.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

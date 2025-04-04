@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/abafAmbience_drone1.ogg-07acd20ed0ae7439dc0cb38886ee51f1.oggstr"
+
+[deps]
+
+source_file="res://Sounds/abafAmbience_drone1.ogg"
+dest_files=[ "res://.import/abafAmbience_drone1.ogg-07acd20ed0ae7439dc0cb38886ee51f1.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

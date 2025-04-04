@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/conveyorReboot.ogg-64090d05dce90df63b6a88be9fe5d5a8.oggstr"
+
+[deps]
+
+source_file="res://Sounds/conveyorReboot.ogg"
+dest_files=[ "res://.import/conveyorReboot.ogg-64090d05dce90df63b6a88be9fe5d5a8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

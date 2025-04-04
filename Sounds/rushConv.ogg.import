@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rushConv.ogg-13eef9a7953c5e64674295747915395f.oggstr"
+
+[deps]
+
+source_file="res://Sounds/rushConv.ogg"
+dest_files=[ "res://.import/rushConv.ogg-13eef9a7953c5e64674295747915395f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/boohoo.ogg-7bdb35efc2b5ba0046e93c7254c7e64c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/boohoo.ogg"
+dest_files=[ "res://.import/boohoo.ogg-7bdb35efc2b5ba0046e93c7254c7e64c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

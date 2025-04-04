@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/camIce.ogg-66588385121a9147bdbb06481b5e4af6.oggstr"
+
+[deps]
+
+source_file="res://Sounds/camIce.ogg"
+dest_files=[ "res://.import/camIce.ogg-66588385121a9147bdbb06481b5e4af6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/toolCamClick.ogg-eb9c5848e8a3ce3972b4e5328ce735bb.oggstr"
+
+[deps]
+
+source_file="res://Sounds/toolCamClick.ogg"
+dest_files=[ "res://.import/toolCamClick.ogg-eb9c5848e8a3ce3972b4e5328ce735bb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

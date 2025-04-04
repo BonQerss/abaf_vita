@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tvOff.ogg-bdd10dc61c155bf2da4716ca1d772e0d.oggstr"
+
+[deps]
+
+source_file="res://Sounds/tvOff.ogg"
+dest_files=[ "res://.import/tvOff.ogg-bdd10dc61c155bf2da4716ca1d772e0d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

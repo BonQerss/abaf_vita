@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mgr15.wav-a7357c2e20f5ca3f1c7968981eb5b803.sample"
+
+[deps]
+
+source_file="res://Sounds/mgr15.wav"
+dest_files=[ "res://.import/mgr15.wav-a7357c2e20f5ca3f1c7968981eb5b803.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mgrAware3.ogg-c4ca5f17285afb1ccc11c8b281409ba4.oggstr"
+
+[deps]
+
+source_file="res://Sounds/mgrAware3.ogg"
+dest_files=[ "res://.import/mgrAware3.ogg-c4ca5f17285afb1ccc11c8b281409ba4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/convLeave.ogg-3b7c0b53ab085a268ec2fc06b8af5e28.oggstr"
+
+[deps]
+
+source_file="res://Sounds/convLeave.ogg"
+dest_files=[ "res://.import/convLeave.ogg-3b7c0b53ab085a268ec2fc06b8af5e28.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

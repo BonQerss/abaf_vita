@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/camAmbience.ogg-54f34d327c291c915edc3da147657533.oggstr"
+
+[deps]
+
+source_file="res://Sounds/camAmbience.ogg"
+dest_files=[ "res://.import/camAmbience.ogg-54f34d327c291c915edc3da147657533.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

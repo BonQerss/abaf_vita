@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bitey.ogg-cabf2dafe424070759c5b69bcb49cb4e.oggstr"
+
+[deps]
+
+source_file="res://Sounds/bitey.ogg"
+dest_files=[ "res://.import/bitey.ogg-cabf2dafe424070759c5b69bcb49cb4e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

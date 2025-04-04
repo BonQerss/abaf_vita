@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/pickLight2.ogg-b45273176ecf752df28f4df09c54465d.oggstr"
+
+[deps]
+
+source_file="res://Sounds/pickLight2.ogg"
+dest_files=[ "res://.import/pickLight2.ogg-b45273176ecf752df28f4df09c54465d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

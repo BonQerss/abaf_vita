@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/doorKnock.ogg-2a73dfdf6d6a8d545faf9a9e8cc64120.oggstr"
+
+[deps]
+
+source_file="res://Sounds/doorKnock.ogg"
+dest_files=[ "res://.import/doorKnock.ogg-2a73dfdf6d6a8d545faf9a9e8cc64120.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rewardBoot.ogg-e47dc321392625a1118f2e4715aea27c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/rewardBoot.ogg"
+dest_files=[ "res://.import/rewardBoot.ogg-e47dc321392625a1118f2e4715aea27c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

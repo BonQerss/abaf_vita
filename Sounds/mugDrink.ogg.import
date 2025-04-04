@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mugDrink.ogg-35ef35fd969afb1b956036d4b3399fed.oggstr"
+
+[deps]
+
+source_file="res://Sounds/mugDrink.ogg"
+dest_files=[ "res://.import/mugDrink.ogg-35ef35fd969afb1b956036d4b3399fed.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

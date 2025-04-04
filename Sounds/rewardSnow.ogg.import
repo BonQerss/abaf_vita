@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rewardSnow.ogg-c88eb397470ce6b77125b94604f4f2eb.oggstr"
+
+[deps]
+
+source_file="res://Sounds/rewardSnow.ogg"
+dest_files=[ "res://.import/rewardSnow.ogg-c88eb397470ce6b77125b94604f4f2eb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

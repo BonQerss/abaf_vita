@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rewardFb.ogg-3f09608865369a6e13c46f6f60c6d12a.oggstr"
+
+[deps]
+
+source_file="res://Sounds/rewardFb.ogg"
+dest_files=[ "res://.import/rewardFb.ogg-3f09608865369a6e13c46f6f60c6d12a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

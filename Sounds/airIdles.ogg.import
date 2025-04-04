@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/airIdles.ogg-e3eb70ae51c04744f9af3a35e13e7813.oggstr"
+
+[deps]
+
+source_file="res://Sounds/airIdles.ogg"
+dest_files=[ "res://.import/airIdles.ogg-e3eb70ae51c04744f9af3a35e13e7813.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

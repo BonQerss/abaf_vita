@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/abafAmbience_ghosts2.ogg-04d6c0787e580d0fa18d29c6368674f2.oggstr"
+
+[deps]
+
+source_file="res://Sounds/abafAmbience_ghosts2.ogg"
+dest_files=[ "res://.import/abafAmbience_ghosts2.ogg-04d6c0787e580d0fa18d29c6368674f2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

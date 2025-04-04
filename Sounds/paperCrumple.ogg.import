@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/paperCrumple.ogg-90722b4a4b418d2c236de5382a67a80d.oggstr"
+
+[deps]
+
+source_file="res://Sounds/paperCrumple.ogg"
+dest_files=[ "res://.import/paperCrumple.ogg-90722b4a4b418d2c236de5382a67a80d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

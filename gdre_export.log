@@ -1,0 +1,37 @@
+GDRE Tools v0.9.0-beta.4
+Windows 10.0.22631, NVIDIA GeForce MX230, opengl3
+Opening file: C:/Users/airin/Downloads/A Bite At Freddys.exe
+Verified 3396 files, no errors detected!
+Extracted 1994 files, no errors detected!
+WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: ImportExporter::_export_imports (modules\gdsdecomp\utility\import_exporter.cpp:241)
+Script version 3.5.0-stable (rev 0xa7aad78) detected
+Exporting resources in parallel...
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     30
+Failed scripts:                         0
+Imported resources for export session:  1648
+Successfully converted:                 1648
+Lossy:                                  0
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.0 to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+

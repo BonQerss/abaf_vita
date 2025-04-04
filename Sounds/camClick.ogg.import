@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/camClick.ogg-ef053dbc1a9cb31a966310c322f61c4b.oggstr"
+
+[deps]
+
+source_file="res://Sounds/camClick.ogg"
+dest_files=[ "res://.import/camClick.ogg-ef053dbc1a9cb31a966310c322f61c4b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

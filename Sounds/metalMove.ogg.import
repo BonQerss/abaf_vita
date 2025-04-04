@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/metalMove.ogg-859d4f19e5012b5b97dd8d88a97fb1fa.oggstr"
+
+[deps]
+
+source_file="res://Sounds/metalMove.ogg"
+dest_files=[ "res://.import/metalMove.ogg-859d4f19e5012b5b97dd8d88a97fb1fa.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

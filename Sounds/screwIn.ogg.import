@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/screwIn.ogg-53a547487b360ddab731d73257ad60db.oggstr"
+
+[deps]
+
+source_file="res://Sounds/screwIn.ogg"
+dest_files=[ "res://.import/screwIn.ogg-53a547487b360ddab731d73257ad60db.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

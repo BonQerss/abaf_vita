@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/winSound.ogg-09c567f31f032a94831e2185877784e9.oggstr"
+
+[deps]
+
+source_file="res://Sounds/winSound.ogg"
+dest_files=[ "res://.import/winSound.ogg-09c567f31f032a94831e2185877784e9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

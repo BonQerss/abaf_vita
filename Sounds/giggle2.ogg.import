@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/giggle2.ogg-6093041157e5cc362b2970776e76782e.oggstr"
+
+[deps]
+
+source_file="res://Sounds/giggle2.ogg"
+dest_files=[ "res://.import/giggle2.ogg-6093041157e5cc362b2970776e76782e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/enemyLeave.ogg-2d2d28e7b921335a2e668172ce66f251.oggstr"
+
+[deps]
+
+source_file="res://Sounds/enemyLeave.ogg"
+dest_files=[ "res://.import/enemyLeave.ogg-2d2d28e7b921335a2e668172ce66f251.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bonConvLeave1.ogg-0d08fdab7c6734017f163a7ad25bc3ae.oggstr"
+
+[deps]
+
+source_file="res://Sounds/bonConvLeave1.ogg"
+dest_files=[ "res://.import/bonConvLeave1.ogg-0d08fdab7c6734017f163a7ad25bc3ae.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

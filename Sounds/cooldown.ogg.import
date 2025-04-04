@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cooldown.ogg-7c6bb5e7f07f65967b2b54581b4f0bd4.oggstr"
+
+[deps]
+
+source_file="res://Sounds/cooldown.ogg"
+dest_files=[ "res://.import/cooldown.ogg-7c6bb5e7f07f65967b2b54581b4f0bd4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

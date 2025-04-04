@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MaxSpook.ogg-f1e54a242233075faced158cda675dbd.oggstr"
+
+[deps]
+
+source_file="res://Sounds/MaxSpook.ogg"
+dest_files=[ "res://.import/MaxSpook.ogg-f1e54a242233075faced158cda675dbd.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

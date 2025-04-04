@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/serviceLight.ogg-59173d6996fffad92b3e9eb94fad6301.oggstr"
+
+[deps]
+
+source_file="res://Sounds/serviceLight.ogg"
+dest_files=[ "res://.import/serviceLight.ogg-59173d6996fffad92b3e9eb94fad6301.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

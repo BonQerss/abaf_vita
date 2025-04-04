@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/escapeCrawl.ogg-72a604891b7b7f4dbfc3b6040e09e391.oggstr"
+
+[deps]
+
+source_file="res://Sounds/escapeCrawl.ogg"
+dest_files=[ "res://.import/escapeCrawl.ogg-72a604891b7b7f4dbfc3b6040e09e391.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ventThud.ogg-3ea2955b9cba95a3520f3872a3f35604.oggstr"
+
+[deps]
+
+source_file="res://Sounds/ventThud.ogg"
+dest_files=[ "res://.import/ventThud.ogg-3ea2955b9cba95a3520f3872a3f35604.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

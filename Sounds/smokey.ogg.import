@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/smokey.ogg-18227020897207781c91df12341a2be6.oggstr"
+
+[deps]
+
+source_file="res://Sounds/smokey.ogg"
+dest_files=[ "res://.import/smokey.ogg-18227020897207781c91df12341a2be6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/VentLE2.ogg-3313073079844ff3ef99a8eba1d50d78.oggstr"
+
+[deps]
+
+source_file="res://Sounds/VentLE2.ogg"
+dest_files=[ "res://.import/VentLE2.ogg-3313073079844ff3ef99a8eba1d50d78.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

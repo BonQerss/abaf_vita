@@ -1,0 +1,2690 @@
+{
+    "Cameras": {
+        "buttonBox.png": {
+            "original_width": 124,
+            "original_height": 71,
+            "new_width": 62,
+            "new_height": 35,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "buttonBox2.png": {
+            "original_width": 115,
+            "original_height": 56,
+            "new_width": 57,
+            "new_height": 28,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "buttonBox3.png": {
+            "original_width": 61,
+            "original_height": 71,
+            "new_width": 30,
+            "new_height": 35,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_1.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_2.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_3.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_4.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_5.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_6.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_6b.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_6c.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam10_6d.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam1_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam2_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam2_6.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam3_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam3_1.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam3_2.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam4_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam5_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam6_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam7_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam8_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam9_0.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam9_3.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam9_4.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam9_5.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cam9_EXPLODE.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "camArrow.png": {
+            "original_width": 12,
+            "original_height": 37,
+            "new_width": 6,
+            "new_height": 18,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "cambox.png": {
+            "original_width": 37,
+            "original_height": 37,
+            "new_width": 18,
+            "new_height": 18,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "camDir.png": {
+            "original_width": 9,
+            "original_height": 6,
+            "new_width": 4,
+            "new_height": 3,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "camhit.png": {
+            "original_width": 576,
+            "original_height": 40,
+            "new_width": 288,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "CamOverlay.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "CamOverlayB.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "door_cam6.png": {
+            "original_width": 134,
+            "original_height": 126,
+            "new_width": 67,
+            "new_height": 63,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dot.png": {
+            "original_width": 25,
+            "original_height": 25,
+            "new_width": 12,
+            "new_height": 12,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbCrawl0001.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbCrawl0002.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbCrawl0003.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbCrawl0004.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbCrawl0005.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "flip1.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "flip2.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredHallu0001.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredHallu0002.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredHallu0003.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredHallu0004.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredHallu0005.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "miniDoor1.png": {
+            "original_width": 12,
+            "original_height": 12,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "miniDoor2.png": {
+            "original_width": 12,
+            "original_height": 12,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "miniDoor3.png": {
+            "original_width": 12,
+            "original_height": 12,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "orderDot.png": {
+            "original_width": 12,
+            "original_height": 12,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "refreshBox.png": {
+            "original_width": 124,
+            "original_height": 71,
+            "new_width": 62,
+            "new_height": 35,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stats0001.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stats0002.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stats0003.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stats0004.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stats0005.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "VentPathMask.png": {
+            "original_width": 269,
+            "original_height": 232,
+            "new_width": 134,
+            "new_height": 116,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "warnFroze.png": {
+            "original_width": 18,
+            "original_height": 18,
+            "new_width": 9,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "you.png": {
+            "original_width": 56,
+            "original_height": 56,
+            "new_width": 28,
+            "new_height": 28,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "Challenges": {
+        "bonChal0001.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0002.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0003.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0004.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0005.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0006.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0007.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0008.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0009.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0010.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0011.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0012.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0013.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0014.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0015.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bonChal0016.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chalFrame.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0001.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0002.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0003.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0004.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0005.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0006.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0007.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0008.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0009.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0010.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0011.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0012.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0013.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0014.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0015.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicChal0016.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0001.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0002.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0003.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0004.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0005.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0006.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0007.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0008.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0009.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0010.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0011.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0012.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0013.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0014.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0015.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0016.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0017.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0018.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0019.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxChal0020.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0001.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0002.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0003.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0004.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0005.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0006.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0007.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0008.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0009.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0010.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0011.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0012.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0013.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0014.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0015.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredChal0016.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "nextAI.png": {
+            "original_width": 24,
+            "original_height": 36,
+            "new_width": 12,
+            "new_height": 18,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0001.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0002.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0003.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0004.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0005.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0006.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0007.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0008.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0009.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0010.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0011.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0012.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0013.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0014.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0015.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbChal0016.png": {
+            "original_width": 110,
+            "original_height": 140,
+            "new_width": 55,
+            "new_height": 70,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "Cutscenes": {
+        "tbWin.png": {
+            "original_width": 223,
+            "original_height": 354,
+            "new_width": 111,
+            "new_height": 177,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbWin_eyes.png": {
+            "original_width": 223,
+            "original_height": 354,
+            "new_width": 111,
+            "new_height": 177,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "winScreen.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "Extras": {
+        "bonExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev1.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev10.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev11.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev12.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev13.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev14.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev15.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev16.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev17.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev18.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev19.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev2.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev20.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev21.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev22.png": {
+            "original_width": 448,
+            "original_height": 252,
+            "new_width": 224,
+            "new_height": 126,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev3.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev4.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev5.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev6.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev7.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev8.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dev9.png": {
+            "original_width": 300,
+            "original_height": 300,
+            "new_width": 150,
+            "new_height": 150,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "friendExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "friendExtra2.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "friendExtra3.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "kitchenFull.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "mug.png": {
+            "original_width": 75,
+            "original_height": 75,
+            "new_width": 37,
+            "new_height": 37,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "nextItem.png": {
+            "original_width": 57,
+            "original_height": 210,
+            "new_width": 28,
+            "new_height": 105,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "officeFront.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "officeLeft.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra1.png": {
+            "original_width": 324,
+            "original_height": 432,
+            "new_width": 162,
+            "new_height": 216,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra2.png": {
+            "original_width": 324,
+            "original_height": 432,
+            "new_width": 162,
+            "new_height": 216,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra3.png": {
+            "original_width": 324,
+            "original_height": 432,
+            "new_width": 162,
+            "new_height": 216,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra4.png": {
+            "original_width": 324,
+            "original_height": 432,
+            "new_width": 162,
+            "new_height": 216,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra5.png": {
+            "original_width": 450,
+            "original_height": 240,
+            "new_width": 225,
+            "new_height": 120,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "posterExtra6.png": {
+            "original_width": 324,
+            "original_height": 432,
+            "new_width": 162,
+            "new_height": 216,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "scrollBack.png": {
+            "original_width": 12,
+            "original_height": 360,
+            "new_width": 6,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "scrollBit.png": {
+            "original_width": 7,
+            "original_height": 175,
+            "new_width": 3,
+            "new_height": 87,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stageFull.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stary.png": {
+            "original_width": 30,
+            "original_height": 30,
+            "new_width": 15,
+            "new_height": 15,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "stary2.png": {
+            "original_width": 30,
+            "original_height": 30,
+            "new_width": 15,
+            "new_height": 15,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tbExtra.png": {
+            "original_width": 513,
+            "original_height": 912,
+            "new_width": 256,
+            "new_height": 456,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "unknown.png": {
+            "original_width": 540,
+            "original_height": 960,
+            "new_width": 270,
+            "new_height": 480,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "GameOver": {
+        "fly0001.png": {
+            "original_width": 10,
+            "original_height": 10,
+            "new_width": 5,
+            "new_height": 5,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fly0002.png": {
+            "original_width": 10,
+            "original_height": 10,
+            "new_width": 5,
+            "new_height": 5,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fly0003.png": {
+            "original_width": 10,
+            "original_height": 10,
+            "new_width": 5,
+            "new_height": 5,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fly0004.png": {
+            "original_width": 10,
+            "original_height": 10,
+            "new_width": 5,
+            "new_height": 5,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_1.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_10.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_2.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_3.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_4.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_5.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_6.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_6b.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_6b_eyes.png": {
+            "original_width": 101,
+            "original_height": 14,
+            "new_width": 50,
+            "new_height": 7,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_70001.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_70002.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_70003.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_8.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_9a.png": {
+            "original_width": 960,
+            "original_height": 675,
+            "new_width": 480,
+            "new_height": 337,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "GO_9b_cropped.png": {
+            "original_width": 80,
+            "original_height": 71,
+            "new_width": 40,
+            "new_height": 35,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "Jumpscares": {
+        "bonScare.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "chicScare.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foxScare.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredScare.png": {
+            "original_width": 640,
+            "original_height": 360,
+            "new_width": 320,
+            "new_height": 180,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "Office": {
+        "ConvOn.png": {
+            "original_width": 356,
+            "original_height": 353,
+            "new_width": 178,
+            "new_height": 176,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "desk0001.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "desk0002.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "desk0003.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "desk0004.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "deskOvr2.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "deskOvr3.png": {
+            "original_width": 496,
+            "original_height": 395,
+            "new_width": 248,
+            "new_height": 197,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dustPart2.png": {
+            "original_width": 3,
+            "original_height": 3,
+            "new_width": 1,
+            "new_height": 1,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dustPart3.png": {
+            "original_width": 8,
+            "original_height": 8,
+            "new_width": 4,
+            "new_height": 4,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbTv0001.png": {
+            "original_width": 97,
+            "original_height": 85,
+            "new_width": 48,
+            "new_height": 42,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbTv0002.png": {
+            "original_width": 97,
+            "original_height": 85,
+            "new_width": 48,
+            "new_height": 42,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbTv0003.png": {
+            "original_width": 97,
+            "original_height": 85,
+            "new_width": 48,
+            "new_height": 42,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbTv0004.png": {
+            "original_width": 97,
+            "original_height": 85,
+            "new_width": 48,
+            "new_height": 42,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fbTv0005.png": {
+            "original_width": 97,
+            "original_height": 85,
+            "new_width": 48,
+            "new_height": 42,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foamPistol.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "foamPistolOvr.png": {
+            "original_width": 154,
+            "original_height": 60,
+            "new_width": 77,
+            "new_height": 30,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food1.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food10.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food11.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food12.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food13.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food2.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food20.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food3.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food4.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food5.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food6.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food8.png": {
+            "original_width": 215,
+            "original_height": 103,
+            "new_width": 107,
+            "new_height": 51,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "food9.png": {
+            "original_width": 284,
+            "original_height": 212,
+            "new_width": 142,
+            "new_height": 106,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0001.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0002.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0003.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0004.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0005.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0006.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0007.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "fredPostWink0008.png": {
+            "original_width": 17,
+            "original_height": 18,
+            "new_width": 8,
+            "new_height": 9,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "LeverOn.png": {
+            "original_width": 201,
+            "original_height": 353,
+            "new_width": 100,
+            "new_height": 176,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "lightBox.png": {
+            "original_width": 84,
+            "original_height": 79,
+            "new_width": 42,
+            "new_height": 39,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "lightButton.png": {
+            "original_width": 56,
+            "original_height": 45,
+            "new_width": 28,
+            "new_height": 22,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "lightButton_1.png": {
+            "original_width": 56,
+            "original_height": 45,
+            "new_width": 28,
+            "new_height": 22,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "lightButton_2.png": {
+            "original_width": 56,
+            "original_height": 45,
+            "new_width": 28,
+            "new_height": 22,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "lightOvr.png": {
+            "original_width": 65,
+            "original_height": 33,
+            "new_width": 32,
+            "new_height": 16,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "miniStat1.png": {
+            "original_width": 522,
+            "original_height": 389,
+            "new_width": 261,
+            "new_height": 194,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "miniStat2.png": {
+            "original_width": 522,
+            "original_height": 389,
+            "new_width": 261,
+            "new_height": 194,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "office1.png": {
+            "original_width": 2070,
+            "original_height": 540,
+            "new_width": 1035,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "officeBack.png": {
+            "original_width": 788,
+            "original_height": 540,
+            "new_width": 394,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "officeBack2.png": {
+            "original_width": 788,
+            "original_height": 540,
+            "new_width": 394,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "officeOutage.png": {
+            "original_width": 2070,
+            "original_height": 540,
+            "new_width": 1035,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "pumpkin.png": {
+            "original_width": 93,
+            "original_height": 94,
+            "new_width": 46,
+            "new_height": 47,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "pumpkin2.png": {
+            "original_width": 93,
+            "original_height": 94,
+            "new_width": 46,
+            "new_height": 47,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "smokePart.png": {
+            "original_width": 25,
+            "original_height": 25,
+            "new_width": 12,
+            "new_height": 12,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "snowPart.png": {
+            "original_width": 20,
+            "original_height": 20,
+            "new_width": 10,
+            "new_height": 10,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "tree.png": {
+            "original_width": 72,
+            "original_height": 65,
+            "new_width": 36,
+            "new_height": 32,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "turn.png": {
+            "original_width": 100,
+            "original_height": 540,
+            "new_width": 50,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0001.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0002.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0003.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0004.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0005.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavy0006.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0001.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0002.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0003.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0004.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0005.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "wavyF0006.png": {
+            "original_width": 43,
+            "original_height": 193,
+            "new_width": 21,
+            "new_height": 96,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    },
+    "UI": {
+        "bitey0001.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0002.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0003.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0004.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0005.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0006.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "bitey0007.png": {
+            "original_width": 40,
+            "original_height": 40,
+            "new_width": 20,
+            "new_height": 20,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "checkBack.png": {
+            "original_width": 13,
+            "original_height": 13,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "checkMark.png": {
+            "original_width": 13,
+            "original_height": 13,
+            "new_width": 6,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dial1.png": {
+            "original_width": 50,
+            "original_height": 50,
+            "new_width": 25,
+            "new_height": 25,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "dial2.png": {
+            "original_width": 50,
+            "original_height": 50,
+            "new_width": 25,
+            "new_height": 25,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "loadWheel.png": {
+            "original_width": 50,
+            "original_height": 50,
+            "new_width": 25,
+            "new_height": 25,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "logoTxt2.png": {
+            "original_width": 705,
+            "original_height": 99,
+            "new_width": 352,
+            "new_height": 49,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "menuBack3b.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "photoBon.png": {
+            "original_width": 174,
+            "original_height": 200,
+            "new_width": 87,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "photoChic.png": {
+            "original_width": 174,
+            "original_height": 200,
+            "new_width": 87,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "photoFb.png": {
+            "original_width": 174,
+            "original_height": 200,
+            "new_width": 87,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "photoFox.png": {
+            "original_width": 174,
+            "original_height": 200,
+            "new_width": 87,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "photoFred.png": {
+            "original_width": 174,
+            "original_height": 200,
+            "new_width": 87,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "selArrow.png": {
+            "original_width": 24,
+            "original_height": 24,
+            "new_width": 12,
+            "new_height": 12,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "slideBar.png": {
+            "original_width": 252,
+            "original_height": 7,
+            "new_width": 126,
+            "new_height": 3,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "slideBit.png": {
+            "original_width": 8,
+            "original_height": 12,
+            "new_width": 4,
+            "new_height": 6,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img1.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img10.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img11.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img12.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img13.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img14.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img15.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img16.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img17.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img2.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img3.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img4.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img5.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img6.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img7.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img8.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "t-img9.png": {
+            "original_width": 340,
+            "original_height": 393,
+            "new_width": 170,
+            "new_height": 196,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "teethy.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "textBacko.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "textBacko2.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "walkie.png": {
+            "original_width": 114,
+            "original_height": 200,
+            "new_width": 57,
+            "new_height": 100,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "walkX.png": {
+            "original_width": 49,
+            "original_height": 50,
+            "new_width": 24,
+            "new_height": 25,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "winScrn.png": {
+            "original_width": 960,
+            "original_height": 540,
+            "new_width": 480,
+            "new_height": 270,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        },
+        "winTB.png": {
+            "original_width": 248,
+            "original_height": 316,
+            "new_width": 124,
+            "new_height": 158,
+            "godot_scale_x": 2.0,
+            "godot_scale_y": 2.0
+        }
+    }
+}

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/humConv.ogg-7724818e9906e340fa6fa4ad2aa28fdc.oggstr"
+
+[deps]
+
+source_file="res://Sounds/humConv.ogg"
+dest_files=[ "res://.import/humConv.ogg-7724818e9906e340fa6fa4ad2aa28fdc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

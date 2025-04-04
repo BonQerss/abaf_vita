@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/screwsFalling.ogg-f938c1c87a623f7c51de818273da3bf9.oggstr"
+
+[deps]
+
+source_file="res://Sounds/screwsFalling.ogg"
+dest_files=[ "res://.import/screwsFalling.ogg-f938c1c87a623f7c51de818273da3bf9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

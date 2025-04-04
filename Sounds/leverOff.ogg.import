@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/leverOff.ogg-316354e8353a7fe033b28774fe82ac8c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/leverOff.ogg"
+dest_files=[ "res://.import/leverOff.ogg-316354e8353a7fe033b28774fe82ac8c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

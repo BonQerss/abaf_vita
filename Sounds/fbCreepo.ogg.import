@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fbCreepo.ogg-8872b97f2c4af67286f7cd01904156a6.oggstr"
+
+[deps]
+
+source_file="res://Sounds/fbCreepo.ogg"
+dest_files=[ "res://.import/fbCreepo.ogg-8872b97f2c4af67286f7cd01904156a6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

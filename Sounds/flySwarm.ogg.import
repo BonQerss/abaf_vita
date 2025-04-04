@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/flySwarm.ogg-659618de9c7fa34f7ba7c09f41dbcf7c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/flySwarm.ogg"
+dest_files=[ "res://.import/flySwarm.ogg-659618de9c7fa34f7ba7c09f41dbcf7c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
